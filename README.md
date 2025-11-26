@@ -138,8 +138,8 @@ Each subfolder also contains a **local README** with detailed reproduction instr
 
 If you'd like to collaborate on computational neuroscience or electrophysiology projects:
 
-**Email:** (your email)
-**GitHub:** (your GitHub link)
+**Email:** odelanadavidp20@gmail.com
+**GitHub:**https://github.com/Dafinci01/
 **LinkedIn:** (optional)
 
 ---
